@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gusainakansha2003@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1GFFU9-FrDwFY-1YxJAZMvkVD7hhRx16J/view?usp=drivesdk](https://drive.google.com/file/d/1GFFU9-FrDwFY-1YxJAZMvkVD7hhRx16J/view?usp=drivesdk)](https://drive.google.com/file/d/1oHa9LnTG5gjTGmSaj8Flhv4sTBlyJC2-/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/1oHa9LnTG5gjTGmSaj8Flhv4sTBlyJC2-/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
