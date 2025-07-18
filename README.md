@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akansha7385&label=Profile%20views&color=0e75b6&style=flat" alt="akansha7385" /> </p>
 
-- 🌱 I’m currently learning **Javascript,React JS**
+- 🌱 I’m currently learning **Javascript,React JS,Angular**
 
 - 📫 How to reach me **gusainakansha2003@gmail.com**
 
