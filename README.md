@@ -10,8 +10,7 @@
 
 - 📫 How to reach me **gusainakansha2003@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1oHa9LnTG5gjTGmSaj8Flhv4sTBlyJC2-/view?usp=drivesdk
-](https://drive.google.com/file/d/11FOqTI0kWbSQep1-3vXtLpSqFwPdRxhS/view?usp=drivesdk)]](https://drive.google.com/file/d/1QdWBuFssuSa5TgcOzH9PymYJkWu4CMeQ/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1QdWBuFssuSa5TgcOzH9PymYJkWu4CMeQ/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akansha gusain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akansha gusain" height="30" width="40" /></a>
